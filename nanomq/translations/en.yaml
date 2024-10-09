@@ -20,3 +20,4 @@ network:
   1883/tcp: Standard MQTT port
   8083/tcp: MQTT over Websockets
   8883/tcp: MQTT over SSL/TLS
+  8081/tcp: HTTP API port
