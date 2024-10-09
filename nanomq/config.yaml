@@ -26,6 +26,7 @@ ports_description:
   1883/tcp: MQTT TCP port
   8083/tcp: MQTT over Websockets
   8883/tcp: MQTT over SSL/TLS
+  8081/tcp: HTTP API port
 options:
   listen_websocket: true
   allow_anonymous: true
