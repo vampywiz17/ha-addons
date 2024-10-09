@@ -15,7 +15,7 @@ else
 fi
 
 # TODO: Add config option for HTTP API
-# options+=(--http start)
+options+=(--http start)
 
 # Send out discovery and service information
 ./discovery &
