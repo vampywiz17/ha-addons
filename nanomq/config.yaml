@@ -21,6 +21,7 @@ ports:
   1883/tcp: 1883
   8083/tcp: 8083
   8883/tcp: 8883
+  8081/tcp: 8081
 ports_description:
   1883/tcp: MQTT TCP port
   8083/tcp: MQTT over Websockets
